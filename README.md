@@ -7,9 +7,9 @@ You can set:
 
 ## Demo
 
-<img src="./screenshots/demo_1.png" width="200">
+<img src="./screenshots/demo_1.png">
 
-<img src="./screenshots/demo_2.png" width="200">
+<img src="./screenshots/demo_2.png">
 
 ## Install
 
